@@ -12,6 +12,35 @@ Lists the Latest News from the NHL.
 
 Mack's NHL Hockey sports news plugin incorporates an external RSS news feed into a cool looking Flash news feed. The feed moves from bottom to top, with a nice NHL Hockey graphic, followed by headlines and stories. You can click on a story title or summary to see the actual page where it is posted. You can also edit the width and height of the plugin to suit your needs. Finally, you can select how many articles you want to appear in the feed: 1 to 10.
 
+Relevant Keywords: news, sports news, nhl news, hockey news, pro hockey news, nhl news feed, news feed nhl, hockey, nhl
+
+A variety of news is available, including:
+<ul>
+<li>Latest NHL League News</li>
+<br />
+<li>Individual Player News</li>
+<br />
+<li>Trades/Contract Updates</li>
+<br />
+<li>NHL Rumors</li>
+<br />
+<li>NHL Gossip, Chat</li>
+<br />
+<li>Training Schedules</li>
+<br />
+<li>Game Results</li>
+<br />
+<li>Playoff Updates</li>
+<br />
+<li>All-Star Candidates</li>
+</ul>
+
+This plugin can be used pretty much where you want, including some <a href="http://www.sportsbetting3.com" target="_blank">college football betting</a> [dot com] websites, as long as they state legal mumbo jumbo for USA blog readers. There are many places that have <a href="http://www.sportsbetting3.com/how_to_bet_on_horses.php" target="_blank">How to bet on Horses</a> [dot com], plus, I suppose you could put it on a <a href="http://www.more-online-casinos.us" target="_blank">online casinos</a> [dot com] website too, with the same thing I mentioned above. Email me for any help with this.
+
+Thanks,
+
+Mack Bincroft
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
