@@ -3,7 +3,7 @@ Contributors: mackbincroft
 Donate link: http://www.jawer.org
 Tags: news, sports news, nhl news, hockey news, pro hockey news, nhl news feed, news feed nhl, hockey, nhl
 Requires at least: 2.2.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: 0.5
 
 Lists the Latest News from the NHL.
