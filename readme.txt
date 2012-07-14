@@ -35,13 +35,6 @@ A variety of news is available, including:
 <li>All-Star Candidates</li>
 </ul>
 
-This plugin can be used pretty much where you want, including some <a href="http://www.sportsbetting3.com" target="_blank">college football betting</a> [dot com] websites, as long as they state legal mumbo jumbo for USA blog readers. There are many places that have <a href="http://www.sportsbetting3.com/how_to_bet_on_horses.php" target="_blank">How to bet on Horses</a> [dot com], plus, I suppose you could put it on a <a href="http://www.more-online-casinos.us" target="_blank">online casinos</a> [dot com] website too, with the same thing I mentioned above. Email me for any help with this. For non-English speakers:<br />
-<a href="http://www.888ace.com" target="_blank">&#22312;&#32447;&#30334;&#23478;&#20048;</a><br />
-<a href="http://www.888tiger.com" target="_blank">&#32593;&#19978;&#36172;&#22330;</a><br />
-<a href="http://www.vips88.com" target="_blank">&#30334;&#23478;&#20048;</a><br />
-<a href="http://www.players88.com" target="_blank">&#20307;&#32946;&#21338;&#24425;</a><br />
-
-
 Thanks,
 
 Mack Bincroft
